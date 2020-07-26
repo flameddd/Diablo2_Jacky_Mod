@@ -17,3 +17,7 @@ TODO: 附圖
 ## 自己動手改
 - 修改資訊可以參考這篇
 - 或者，這個 repo，我刻意 commit 中文 message，也可以參考看看
+
+## 懶得自己重練，就下載人家準備好的角色存檔吧
+- 易牙居各種職業、各種 build 單機角色存檔 http://iyazero.tw/download.htm
+  - (易牙居首頁 http://iyazero.tw/Default.htm )
