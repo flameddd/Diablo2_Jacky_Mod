@@ -1,5 +1,10 @@
-# Diablo2_Jacky_Mode
-單機：怪變多、天梯符文組、商店賣符文、經驗10倍
+# Diablo2_Jacky_Mod (單機 mod)
+
+## 特點
+- **不改任何**怪物、角色技能、武器強度
+- 增加怪物數量
+- 升級經驗值 1/10
+- 商店賣符文、寶石
 
 ## 使用方法
 1. download 這個 repo (右上方**綠色clone** -> **Download Zip**)
