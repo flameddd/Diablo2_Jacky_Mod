@@ -6,6 +6,9 @@
 - 升級經驗值 1/10
 - 商店賣符文、寶石
 
+## 使用前
+- 先備份自己單機角色檔案
+
 ## 使用方法
 1. download 這個 repo (右上方**綠色clone** -> **Download Zip**)
 2. 把 `data/global/excel/` 裡面的所有檔案，放到 `\Diablo II\data\global\excel` 位置去
